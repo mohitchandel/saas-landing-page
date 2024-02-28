@@ -1,5 +1,7 @@
 # NextJS & Tailwind CSS SaaS Landing Page Template
 
+!["MockUp"](https://raw.githubusercontent.com/mohitchandel/saas-landing-page/main/public/images/mockup/mockup.png)
+
 Welcome to the NextJS & Tailwind CSS SaaS Landing Page Template!
 
 This SEO-friendly and visually stunning template is designed to revolutionize your online presence. Whether you're launching a new SaaS product or showcasing your existing services, our template offers a sleek and professional solution that will captivate your audience and drive conversions.

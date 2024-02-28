@@ -11,8 +11,8 @@ export const Pricing = () => {
             <div className="">
               <blockquote className="mt-2">
                 <p className="text-lg leading-relaxed text-white">
-                  Choose the perfect plan for your business, whether you're a
-                  small startup looking to scale or an enterprise-level
+                  Choose the perfect plan for your business, whether you&apos;re
+                  a small startup looking to scale or an enterprise-level
                   organization with complex hiring requirements. Ensuring you
                   get the most value out of our recruitment software.
                 </p>

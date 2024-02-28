@@ -49,7 +49,8 @@ export const HowItWork = () => {
               </h3>
               <p className="mt-4 text-base text-gray-600">
                 Streamline your workflow with our applicant tracking system,
-                allowing you to easily manage and track candidates' progress.
+                allowing you to easily manage and track candidates&apos;
+                progress.
               </p>
             </div>
 

@@ -85,10 +85,10 @@ export const Testimonials = () => {
 
                     <blockquote className="flex-1 mt-8">
                       <p className="text-lg leading-relaxed text-gray-900 font-pj">
-                        ““Since implementing Recruitment Software, we've seen a
-                        significant improvement in our recruitment metrics. The
-                        comprehensive analytics and reporting tools have
-                        provided valuable insights into our hiring process,
+                        ““Since implementing Recruitment Software, we&apos;ve
+                        seen a significant improvement in our recruitment
+                        metrics. The comprehensive analytics and reporting tools
+                        have provided valuable insights into our hiring process,
                         allowing us to identify areas for improvement and make
                         data-driven decisions. Our recruiters love how easy it
                         is to use, and our candidates appreciate the seamless
@@ -163,10 +163,10 @@ export const Testimonials = () => {
 
                     <blockquote className="flex-1 mt-8">
                       <p className="text-lg leading-relaxed text-gray-900 font-pj">
-                        “Since implementing Recruitment Software, we've seen a
-                        significant improvement in our recruitment metrics. The
-                        comprehensive analytics and reporting tools have
-                        provided valuable insights into our hiring process,
+                        “Since implementing Recruitment Software, we&apos;ve
+                        seen a significant improvement in our recruitment
+                        metrics. The comprehensive analytics and reporting tools
+                        have provided valuable insights into our hiring process,
                         allowing us to identify areas for improvement and make
                         data-driven decisions. Our recruiters love how easy it
                         is to use, and our candidates appreciate the seamless
@@ -241,10 +241,10 @@ export const Testimonials = () => {
 
                     <blockquote className="flex-1 mt-8">
                       <p className="text-lg leading-relaxed text-gray-900 font-pj">
-                        “Since implementing Recruitment Software, we've seen a
-                        significant improvement in our recruitment metrics. The
-                        comprehensive analytics and reporting tools have
-                        provided valuable insights into our hiring process,
+                        “Since implementing Recruitment Software, we&apos;ve
+                        seen a significant improvement in our recruitment
+                        metrics. The comprehensive analytics and reporting tools
+                        have provided valuable insights into our hiring process,
                         allowing us to identify areas for improvement and make
                         data-driven decisions. Our recruiters love how easy it
                         is to use, and our candidates appreciate the seamless

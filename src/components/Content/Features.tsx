@@ -124,7 +124,7 @@ export const Features = () => {
             </h3>
             <p className="mt-5 text-base text-gray-600 font-pj">
               Create and administer customized assessments to evaluate
-              candidates' skills, competencies, and fit for the role, ensuring
+              candidates skills, competencies, and fit for the role, ensuring
               you make informed hiring decisions.
             </p>
           </div>
@@ -156,7 +156,7 @@ export const Features = () => {
             <p className="mt-5 text-base text-gray-600 font-pj">
               Simplify the scheduling process and eliminate back-and-forth
               emails with automated interview scheduling tools that sync with
-              your calendar and the candidate's availability.
+              your calendar and the candidate&apos;s availability.
             </p>
           </div>
 

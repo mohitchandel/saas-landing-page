@@ -47,9 +47,6 @@ If you find this template helpful and would like to support its development, con
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mohitchandel)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 

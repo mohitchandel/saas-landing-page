@@ -15,7 +15,7 @@ export const HeroSection = () => {
             <h1 className="px-6 text-lg text-gray-600 text-poppins">
               Savvy Candidate Outreach Tool, Designed for Recruiters.{" "}
             </h1>
-            <h2 className="mt-5 text-7xl leading-2 text-gray-900 sm:leading-tight md:text-7xl lg:text-7xl  font-poppins font-bold">
+            <h2 className="mt-5 text-6xl leading-2 text-gray-900 sm:leading-tight md:text-6xl lg:text-6xl  font-poppins font-bold">
               Effortlessly Streamline{" "}
               <span className="bg-gradient-to-r from-success via-green-500 to-green-600 inline-block text-transparent bg-clip-text">
                 Your Recruitment
@@ -36,7 +36,7 @@ export const HeroSection = () => {
               <a
                 href="#"
                 title=""
-                className="inline-flex items-center justify-center px-6 py-2 fpx-5 text-white bg-black rounded-md"
+                className="mt-0 max-sm:mt-5 md:mt-0 lg:mt-0 inline-flex items-center justify-center px-6 py-2 fpx-5 text-white bg-black rounded-md"
                 role="button"
               >
                 <svg
